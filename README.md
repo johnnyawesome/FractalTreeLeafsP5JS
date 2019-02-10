@@ -1,7 +1,7 @@
 # FractalTreeLeafsP5JS
 A Fractal tree written in P5JS with leafs
 
-![TreePreview4Branches](https://github.com/johnnyawesome/FractalTreeP5JS/blob/master/DemoImages/TreePreview4Branches.gif)
+![TreePreviewLeafs](https://github.com/johnnyawesome/FractalTreeLeafsP5JS/blob/master/FractalTreeLeafsP5JS/DemoImages/TreeLeafes.gif)
 
 
 Hint: This Fractal Tree is written in P5JS, but . [I also have a more simple version, I wrote a while ago, written in Processing](https://github.com/johnnyawesome/FractalTree)
