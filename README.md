@@ -8,5 +8,5 @@ Hint: This Fractal Tree is written in P5JS, but . [I also have a more simple ver
 
 ## Recursion
 
-This tree uses recursion to get it's fractal form.
+This tree uses [recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)) to get it's fractal form.
 
